@@ -1,0 +1,7 @@
+pandas
+numpy
+gymnasium
+stable-baselines3
+requests
+python-dotenv
+shimmy>=2.0

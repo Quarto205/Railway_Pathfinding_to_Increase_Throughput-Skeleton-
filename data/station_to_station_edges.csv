@@ -1,0 +1,3 @@
+from_station,to_station,distance_km
+STA,STB,50.5
+STB,STC,75.2

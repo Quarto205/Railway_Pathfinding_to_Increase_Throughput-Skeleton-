@@ -1,0 +1,12 @@
+# Remove Virtual Environment files
+venv/
+.env
+
+# Remove pycache
+__pycache__/
+*.pyc
+
+# Exclude sensitive model zips or data dumps just in case
+*.zip
+*.pt
+*secret*.json

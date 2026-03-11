@@ -1,0 +1,33 @@
+{
+    "TRN_001": {
+        "train_number": "10001",
+        "train_name": "Sample Express",
+        "train_type": "Express",
+        "destination": "STC",
+        "route_details": [
+            {
+                "Code": "STA"
+            },
+            {
+                "Code": "STB"
+            },
+            {
+                "Code": "STC"
+            }
+        ]
+    },
+    "TRN_002": {
+        "train_number": "10002",
+        "train_name": "Sample Passenger",
+        "train_type": "Passenger",
+        "destination": "STB",
+        "route_details": [
+            {
+                "Code": "STA"
+            },
+            {
+                "Code": "STB"
+            }
+        ]
+    }
+}

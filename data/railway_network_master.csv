@@ -1,0 +1,5 @@
+from_station,to_station,base_time_minutes,track_type,congestion_factor
+STA,STB,10.0,double,1.1
+STB,STC,15.0,single,1.2
+STB,STA,10.0,double,1.0
+STC,STB,15.0,single,1.0
